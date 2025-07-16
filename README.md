@@ -48,9 +48,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rabiafatima479&show_icons=true&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiafatima479&layout=compact&theme=radical"/>
 </p>
-<p align="left">
-<img src="https://github-readme-streak-stats.demolab.com/?user=rabiafatima479&theme=radical&border_radius=5" />
-</p>
+
 
 ---
 
